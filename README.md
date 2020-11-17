@@ -13,3 +13,11 @@ And write the result to a text file in choosed order.
 Project is created with:
 * Java 14
 * Eclipse IDE for Java Developers version 4.13.0
+
+
+
+# Homework
+Przygotuj klasę Student z polami String imie, String numerIndeksu oraz int rokUrodzenia. Następnie zaimplementuj własną kolekcję, która pozwoli na przechowywanie obiektów klasy Student i będzie posiadała własne metody:
+* zapisujące i wczytujące, z lub do pliku informacje przechowane w kolekcji (do zapisu
+proszę przygotować autorski format, stosowanie Serializacji jest niedozwolone);
+* wyświetlające Studentów w kolejności posortowanej 3 metody odpowiednio po imieniu, po numerzeIndeksu i po rokuUrodzenia.
